@@ -1,8 +1,8 @@
-<pre lang='js'>
+```js
 while(alive) me.coding()
-</pre>
+```
 
 <samp>
-  <a href="https://qzda.netlify.app">home</a>
-  <a href="https://qzda.netlify.app/posts">post</a>
+  <a href="https://qzda.netlify.app">Home</a>
+  <a href="https://qzda.netlify.app/blog">Blog</a>
 </samp>
